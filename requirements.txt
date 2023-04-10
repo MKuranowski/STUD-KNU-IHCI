@@ -1,1 +1,4 @@
 nltk
+spacy
+table2md>=1.1.0
+beautifulsoup4
